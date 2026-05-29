@@ -2,3 +2,5 @@ AGENTS.md
 handoff.md
 docs/superpowers/
 .task*_verify.sh
+config.bat
+node_modules
